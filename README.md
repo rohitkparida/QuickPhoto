@@ -1,8 +1,8 @@
-Malette
+QuickPhoto
 
 ========
 
-This is a material design palette app.
+An app that can be useful to quickly open a photo
 # Features
 
 - Offline-capable - ServiceWorker.
