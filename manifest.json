@@ -1,0 +1,29 @@
+{
+    "short_name": "Malette",
+    "name": "Malette",
+    "icons": [{
+            "src": "img/icon.svg",
+            "sizes": "48x48",
+            "type": "image/svg"
+        },
+        {
+            "src": "img/icon.svg",
+            "sizes": "96x96",
+            "type": "image/svg"
+        },
+        {
+            "src": "img/icon.svg",
+            "sizes": "144x144",
+            "type": "image/svg"
+        },
+        {
+            "src": "img/icon.svg",
+            "sizes": "196x196",
+            "type": "image/svg"
+        }
+    ],
+    "start_url": "/malette/index.html",
+    "display": "standalone",
+    "background_color": "#f5f5f5",
+    "theme_color": "#f5f5f5"
+}
